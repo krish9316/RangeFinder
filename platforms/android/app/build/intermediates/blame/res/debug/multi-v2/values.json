@@ -1,0 +1,56 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/23aae0a3df4ade4734edf1765b9ac696/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "33,44",
+                        "startColumns": "4,4",
+                        "startOffsets": "1499,2720",
+                        "endColumns": "67,166",
+                        "endOffsets": "1562,2882"
+                    }
+                },
+                {
+                    "source": "/Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/c370398baf25fa8b9e3a81f53409e3f2/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,36,37,38,39,40,41,42,43,45,46,47,48,49,50,51,52,53",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,195,275,365,455,535,616,696,1680,1785,1966,2091,2198,2378,2501,2617,2887,3075,3180,3361,3486,3661,3809,3872,3934",
+                        "endColumns": "89,79,89,89,79,80,79,79,104,180,124,106,179,122,115,102,187,104,180,124,174,147,62,61,78",
+                        "endOffsets": "190,270,360,450,530,611,691,771,1780,1961,2086,2193,2373,2496,2612,2715,3070,3175,3356,3481,3656,3804,3867,3929,4008"
+                    }
+                },
+                {
+                    "source": "/Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,2,-1",
+                        "startColumns": "-1,4,-1",
+                        "startOffsets": "-1,55,-1",
+                        "endColumns": "-1,48,-1",
+                        "endOffsets": "-1,99,-1"
+                    },
+                    "to": {
+                        "startLines": "34,35,54",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1567,1631,4013",
+                        "endColumns": "63,48,58",
+                        "endOffsets": "1626,1675,4067"
+                    }
+                }
+            ]
+        }
+    ]
+}

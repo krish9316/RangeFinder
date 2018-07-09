@@ -1,0 +1,82 @@
+// http://ionicframework.com/docs/theming/
+
+
+// App Global Sass
+// --------------------------------------------------
+// Put style rules here that you want to apply globally. These
+// styles are for the entire app and not just one component.
+// Additionally, this file can be also used as an entry point
+// to import other Sass files to be included in the output CSS.
+//
+// Shared Sass variables, which can be used to adjust Ionic's
+// default Sass variables, belong in "theme/variables.scss".
+//
+// To declare rules for a specific mode, create a child rule
+// for the .md, .ios, or .wp mode classes. The mode class is
+// automatically applied to the <body> element in the app.
+
+.backbutton{
+    background-image: "../assets/imgs/arrow_left.png";
+}
+
+.menuButton{
+    background: transparent;
+    color: #000;
+    box-shadow: none;
+    width: 100%;
+    text-align: right;
+    display: block;
+    text-transform: none;
+}
+
+.menu-inner{
+    width: 45%;
+}
+
+.menuBanner{
+    width: 100%;
+    height: 30%;
+    display: block;
+}
+
+.item-md{
+    background: linear-gradient(to bottom right, #154567 , #fff);
+}
+
+.menuGradient .scroll-content{
+    background: linear-gradient(to bottom right, #154567 , #fff);
+}
+
+.toolbar-background-md{
+    background: linear-gradient(to top left, #154567 , #fff) !important;
+}
+
+.button-md.activated{
+    background-color: transparent;
+    box-shadow: none !important;
+}
+
+ion-backdrop{
+    opacity: 0.6 !important;
+}
+
+.popover-content{
+    width: 10% !important;
+    background: transparent !important;
+    top: 24% !important;
+    right: 2% !important;
+    left: unset !important;
+    box-shadow: none !important;
+    transform-origin: bottom 0px !important;
+}
+
+ion-spinner{
+    width: 50px !important;
+    height: 50px !important;
+    padding: 0 !important;
+}
+
+.loading-md .loading-wrapper{
+    background: transparent !important;
+    box-shadow: none !important;
+}

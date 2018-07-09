@@ -1,0 +1,33 @@
+<!--
+  Generated template for the ChatDetailPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+  <ion-navbar>
+    <ion-title>{{this.receiverName}}</ion-title>
+    <ion-buttons left>
+        <button ion-button menuToggle>
+            <ion-icon name="menu"></ion-icon>
+          </button>
+    </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+
+<ion-content id="chatDetail">
+  <ion-list class="chatList">
+    <ion-item *ngFor="let messageObj of messages" class="chatItem">
+      <span class="tStamp">{{this.getDateStamp(messageObj.tStamp)}}</span>
+      <div [ngClass]="messageObj.align == 'right' ? 'alignRight' : 'alignLeft'">
+        <span class="messageStyle">{{messageObj.message}}</span>
+        <span class="timeString">{{this.getTimeStamp(messageObj.tStamp)}}</span>
+      </div>
+    </ion-item>
+  </ion-list>
+  <span class="footer">
+    <ion-input type="text" placeholder="Type your message here" [(ngModel)]="messageText" class="messageTextInput"></ion-input>
+    <button ion-button class="sendButton" (click)="sendMessage()">Send</button>
+  </span>
+</ion-content>

@@ -1,0 +1,21 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Range Finder
+    </ion-title>
+    <ion-buttons left>
+        <button ion-button menuToggle>
+            <ion-icon name="menu"></ion-icon>
+          </button>
+    </ion-buttons>
+    <ion-buttons end>
+      <button ion-button class="refresh" (click)="loadTheView()"></button>
+      <button ion-button class="info" (click)="showInfo()"></button>
+    </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding id="homePage">
+  <div #map id="map"></div>
+  <button ion-button class="hoverButton" (click)="showPopOver()"></button>
+</ion-content>

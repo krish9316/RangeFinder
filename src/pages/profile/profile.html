@@ -1,0 +1,29 @@
+<!--
+  Generated template for the ProfilePage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar dark>
+      <!-- <ion-buttons left *ngIf="!hideBackButton">
+          <button ion-button icon-only class="backbutton" (click)="goToHome()">
+            <ion-icon name="arrow-back"></ion-icon>
+          </button>
+      </ion-buttons> -->
+    <ion-title>Profile</ion-title>
+    <ion-buttons left>
+        <button ion-button menuToggle>
+            <ion-icon name="menu"></ion-icon>
+          </button>
+    </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <img src="{{this.userData.imageUrl != nil ? this.userData.imageUrl : '../assets/imgs/profile-placeholder.png'}}" class="displayPictureBig">
+  <h6 class="displayNameBig">{{this.userData.name}}</h6>
+  <h6 class="lastSeen">{{"Last seen: " + this.getLastSeen(this.userData.timestamp)}}</h6>
+  <button ion-button (click)="chatButtonClicked()" class="chatButton">Chat</button>
+</ion-content>

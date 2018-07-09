@@ -1,0 +1,233 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f10bf30fef61c85c09a0fda680346372/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-identity:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.8.0.aar/993ce3f6c9b903cf38324e172d17e3b2/AndroidManifest.xml:17:1-24:12
+MERGED from [:CordovaLib] /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:1-27:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.8.0.aar/9be5c4844d213f1cee7d7c6942304caf/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.8.0.aar/5af7f6bd41e49192e3134b94fc7c66c3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/c370398baf25fa8b9e3a81f53409e3f2/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/c3fe91d4bebaeb955a11e881ffa8be98/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/23aae0a3df4ade4734edf1765b9ac696/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-identity-license:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-11.8.0.aar/99bebfa5d7cc60267d6037eb970edb63/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.8.0.aar/6ae2647da79f3f8e37da93ed5020051d/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/4508942f29709fedfbf1c01b32c57524/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/a1caf743318463b1b14084d882dac647/AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:support-v4:25.2.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/6611583ca0555afdee34401fd8186815/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/6ec11a2aa245aa79c741ff941e6ad567/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/a72b14d710582849823781bfb4d285f5/AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/c2a758706f4f0233a59ffc54be0c1244/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/f49e440635202ed36c25a69be7e45646/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/f7b9187172bf01a2def457a869ed8666/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/e606a0e65ee45b535ffbaa3a2597a2b8/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/1c55d12528e0886f36bc356451d893d5/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:2:98-132
+		INJECTED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:2:70-97
+		INJECTED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:2:133-191
+	android:versionCode
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:2:46-69
+		INJECTED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:3:23-48
+uses-permission#android.permission.INTERNET
+ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f10bf30fef61c85c09a0fda680346372/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f10bf30fef61c85c09a0fda680346372/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-identity:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.8.0.aar/993ce3f6c9b903cf38324e172d17e3b2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.8.0.aar/993ce3f6c9b903cf38324e172d17e3b2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/c370398baf25fa8b9e3a81f53409e3f2/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/c370398baf25fa8b9e3a81f53409e3f2/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/c3fe91d4bebaeb955a11e881ffa8be98/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/c3fe91d4bebaeb955a11e881ffa8be98/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/23aae0a3df4ade4734edf1765b9ac696/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/23aae0a3df4ade4734edf1765b9ac696/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-identity-license:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-11.8.0.aar/99bebfa5d7cc60267d6037eb970edb63/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-11.8.0.aar/99bebfa5d7cc60267d6037eb970edb63/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.8.0.aar/6ae2647da79f3f8e37da93ed5020051d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.8.0.aar/6ae2647da79f3f8e37da93ed5020051d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/4508942f29709fedfbf1c01b32c57524/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/4508942f29709fedfbf1c01b32c57524/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/a1caf743318463b1b14084d882dac647/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/a1caf743318463b1b14084d882dac647/AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/6611583ca0555afdee34401fd8186815/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/6611583ca0555afdee34401fd8186815/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/6ec11a2aa245aa79c741ff941e6ad567/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/6ec11a2aa245aa79c741ff941e6ad567/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/a72b14d710582849823781bfb4d285f5/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/a72b14d710582849823781bfb4d285f5/AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/c2a758706f4f0233a59ffc54be0c1244/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/c2a758706f4f0233a59ffc54be0c1244/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/f49e440635202ed36c25a69be7e45646/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/f49e440635202ed36c25a69be7e45646/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/f7b9187172bf01a2def457a869ed8666/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/f7b9187172bf01a2def457a869ed8666/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/e606a0e65ee45b535ffbaa3a2597a2b8/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/e606a0e65ee45b535ffbaa3a2597a2b8/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/1c55d12528e0886f36bc356451d893d5/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/1c55d12528e0886f36bc356451d893d5/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:5:114-140
+	android:label
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:5:81-113
+	android:hardwareAccelerated
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:5:18-52
+	android:icon
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:5:53-80
+activity#com.personal.rangefinder.MainActivity
+ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:6:9-11:20
+	android:label
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:6:97-134
+	android:launchMode
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:6:135-165
+	android:windowSoftInputMode
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:6:257-299
+	android:configChanges
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:6:19-96
+	android:theme
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:6:194-256
+	android:name
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:6:166-193
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:7:13-10:29
+	android:label
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:7:28-65
+action#android.intent.action.MAIN
+ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:9:27-74
+uses-sdk
+ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:13:5-74
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f10bf30fef61c85c09a0fda680346372/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f10bf30fef61c85c09a0fda680346372/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.8.0.aar/993ce3f6c9b903cf38324e172d17e3b2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.8.0.aar/993ce3f6c9b903cf38324e172d17e3b2/AndroidManifest.xml:20:5-44
+MERGED from [:CordovaLib] /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.8.0.aar/9be5c4844d213f1cee7d7c6942304caf/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.8.0.aar/9be5c4844d213f1cee7d7c6942304caf/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.8.0.aar/5af7f6bd41e49192e3134b94fc7c66c3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.8.0.aar/5af7f6bd41e49192e3134b94fc7c66c3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/c370398baf25fa8b9e3a81f53409e3f2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/c370398baf25fa8b9e3a81f53409e3f2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/c3fe91d4bebaeb955a11e881ffa8be98/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/c3fe91d4bebaeb955a11e881ffa8be98/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/23aae0a3df4ade4734edf1765b9ac696/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/23aae0a3df4ade4734edf1765b9ac696/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-11.8.0.aar/99bebfa5d7cc60267d6037eb970edb63/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-identity-license:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-11.8.0.aar/99bebfa5d7cc60267d6037eb970edb63/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.8.0.aar/6ae2647da79f3f8e37da93ed5020051d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.8.0.aar/6ae2647da79f3f8e37da93ed5020051d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/4508942f29709fedfbf1c01b32c57524/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/4508942f29709fedfbf1c01b32c57524/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/a1caf743318463b1b14084d882dac647/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/a1caf743318463b1b14084d882dac647/AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:support-v4:25.2.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/6611583ca0555afdee34401fd8186815/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/6611583ca0555afdee34401fd8186815/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/6ec11a2aa245aa79c741ff941e6ad567/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/6ec11a2aa245aa79c741ff941e6ad567/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/a72b14d710582849823781bfb4d285f5/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/a72b14d710582849823781bfb4d285f5/AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/c2a758706f4f0233a59ffc54be0c1244/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/c2a758706f4f0233a59ffc54be0c1244/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/f49e440635202ed36c25a69be7e45646/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/f49e440635202ed36c25a69be7e45646/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/f7b9187172bf01a2def457a869ed8666/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/f7b9187172bf01a2def457a869ed8666/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/e606a0e65ee45b535ffbaa3a2597a2b8/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/e606a0e65ee45b535ffbaa3a2597a2b8/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/1c55d12528e0886f36bc356451d893d5/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/1c55d12528e0886f36bc356451d893d5/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/6611583ca0555afdee34401fd8186815/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:13:42-71
+	android:minSdkVersion
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:13:15-41
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:14:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:15:22-76
+uses-feature#android.hardware.location.gps
+ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:16:5-66
+	android:name
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:16:19-63
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:17:5-71
+	android:name
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:17:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:18:5-74
+	android:name
+		ADDED from /Users/krishnarohit/Desktop/RangeFinder - base/rangefinder-tracking/platforms/android/app/src/main/AndroidManifest.xml:18:22-71
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f10bf30fef61c85c09a0fda680346372/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f10bf30fef61c85c09a0fda680346372/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f10bf30fef61c85c09a0fda680346372/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f10bf30fef61c85c09a0fda680346372/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f10bf30fef61c85c09a0fda680346372/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f10bf30fef61c85c09a0fda680346372/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f10bf30fef61c85c09a0fda680346372/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f10bf30fef61c85c09a0fda680346372/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f10bf30fef61c85c09a0fda680346372/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/c370398baf25fa8b9e3a81f53409e3f2/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/c370398baf25fa8b9e3a81f53409e3f2/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/c370398baf25fa8b9e3a81f53409e3f2/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/c370398baf25fa8b9e3a81f53409e3f2/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/23aae0a3df4ade4734edf1765b9ac696/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/23aae0a3df4ade4734edf1765b9ac696/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/krishnarohit/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/23aae0a3df4ade4734edf1765b9ac696/AndroidManifest.xml:24:13-58

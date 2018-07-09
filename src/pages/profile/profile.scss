@@ -1,0 +1,34 @@
+page-profile {
+    .displayPictureBig{
+        border-radius: 50%;
+        width: 50%;
+        height: 30%;
+        background-size: 100%;
+        display: flex;
+        margin-left: 23%; 
+    }
+    .displayNameBig{
+        font-weight: bold;
+        font-size: 3rem;
+        width: 100%;
+        text-align: center;
+    }
+    .lastSeen{
+        font-size: 2rem;
+        font-weight: normal;
+        width: 100%;
+        text-align: center;
+    }
+    .chatButton{
+        background-color: #488aff;
+        color: #fff;
+        width: 50%;
+        display: block;
+        text-align: center;
+        padding: 5%;
+        text-transform: none;
+        font-size: 2rem;
+        font-weight: bold;
+        margin: 24%;
+    }
+}

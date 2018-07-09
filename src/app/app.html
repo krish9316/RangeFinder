@@ -1,0 +1,26 @@
+<ion-menu persistent=“true” [swipeEnabled]="false" [content]="content" side="left" id="sideMenu">
+        <ion-header>
+        </ion-header>
+      
+        <ion-content class="menuGradient">
+        <span>
+            <img src="./assets/imgs/silhouette.png" class="menuBanner">
+        </span>
+          <ion-list>
+            <ion-item menuClose>
+                <button ion-button (click)="goToHomePage()" class="menuButton">Home</button>
+            </ion-item>
+            <ion-item menuClose>
+                <button ion-button (click)="goToMessages()" class="menuButton">Messages</button>
+            </ion-item>
+            <ion-item menuClose>
+                <button ion-button (click)="logout()" class="menuButton">Logout</button>
+            </ion-item>
+            <ion-item menuClose>
+                <button ion-button (click)="goToAbout()" class="menuButton">About</button>
+            </ion-item>
+          </ion-list>
+        </ion-content>
+      
+      </ion-menu>
+<ion-nav [root]="rootPage" #content swipeBackEnabled="false"></ion-nav>
